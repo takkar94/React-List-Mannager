@@ -18,8 +18,6 @@ const Expenses = (props) => {
   })
 
   
-
-
   return (
     <div>
       <Card className='expenses'>

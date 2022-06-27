@@ -33,9 +33,7 @@ const App = () => {
       return [...prevExpenses, expense];
     });
   };
-  // const addExpenseHandler = (expense) => {
-  //   setExpenses([expense, ...expenses]);
-  // };
+
 
   return (
     <div>

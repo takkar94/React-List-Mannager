@@ -11,6 +11,8 @@ function ExpenseItem(props) {
     console.log(titles);
   };
 
+  console.log(clickHandler);
+
   return (
     <Card className="expense-item">
       <ExpenseDate date={props.date} />
